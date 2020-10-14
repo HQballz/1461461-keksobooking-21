@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Maxim Shvets](https://up.htmlacademy.ru/javascript/21/user/1461461).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Щеколдин](https://htmlacademy.ru/profile/id861059).
 
 ---
 
